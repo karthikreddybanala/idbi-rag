@@ -1,0 +1,49 @@
+IDBI Bank – Kutumb Family Banking
+
+Overview:
+With Kutumb, you can ensure your family gets greater access to finances. The primary family member maintains the required minimum balance on behalf of all members, providing flexibility and convenience.
+
+Features:
+
+- Specially designed accounts for Women, Children, Youth, and Senior Citizens
+- Facility to maintain minimum balance by primary member on behalf of entire family
+- Greater flexibility to access own funds
+- All accounts under one roof
+
+Eligibility:
+
+- Minimum members: 2 | Maximum members: 5
+- Eligible family members: Spouse, Mother, Father, Child, Grandparent, Grandchild, Brother, Sister, Father-in-law, Mother-in-law
+- Eligible accounts: 
+  - All Individual Savings Accounts except Basic Savings Bank Deposit / Financial Inclusion / Capital Gains Accounts
+  - All Individual Current Accounts / Sole Proprietor Accounts / HUF
+- Exceptions: 
+  - Accounts already grouped under another Family ID cannot be grouped again
+  - Accounts with Freeze / Negative Balance / Unrecovered charges / Inactive / Dormant accounts are restricted
+
+MAB Requirement:
+
+- Family MAB (FMAB) = sum of MAB of all individual accounts in the group
+- FD / FFD balances are excluded for FMAB calculation
+
+Facilities & Charges:
+
+- Account-level facilities and charges as per Schedule of Facilities (SoF) continue unchanged
+- Penal charges for non-maintenance of FMAB will be computed as the summation of product-level penal charges
+- Recovery of penal charges: from Primary Family Member’s account; if insufficient, then sequentially from other accounts in the group
+
+How To Apply:
+
+Get a Kutumb – Family Banking account in 3 easy steps:
+
+01. Get In Touch
+   - Call the Phone Banking numbers (Toll Free):
+     1800-209-4324  
+     1800-22-1070 (24x7 service)
+
+02. Visit Our Branch
+   - Visit the nearest IDBI Bank branch
+
+03. Receive a Call Back
+   - A bank representative will contact you at the earliest
+

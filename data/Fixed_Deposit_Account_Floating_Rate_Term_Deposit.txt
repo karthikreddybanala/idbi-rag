@@ -1,0 +1,79 @@
+IDBI Bank Floating Rate Term Deposit (FRTD)
+
+Overview:
+The Floating Rate Term Deposit (FRTD) is a special type of fixed deposit where the interest rate is not fixed for the entire tenure but moves in line with a benchmark reference rate. This allows investors to benefit from changing market interest rates without closing or rebooking their deposits. The reference rate is linked to the Bank’s Treasury Bill (T-Bill) rates auctioned fortnightly by the RBI and reset annually.
+
+Advantages:
+- **Quarterly Interest Payment:** Interest is payable quarterly on the last day of each quarter.
+- **Interest Reset:** Every 3 months — on April 1, July 1, October 1, and January 1 each year.
+- **Liquidity:** Loan or overdraft facility up to 90% of deposit amount, at 2% p.a. above deposit rate (with up to 1% reduction as per bank policy).
+- **Nomination Facility:** Available free of charge.
+- **Minor Accounts:** Can be opened jointly with guardian only; minors cannot open independently.
+- **Auto-Renewal:** Available for deposits with tenure above 1 year, renewed automatically at prevailing FRTD rates.
+- **Tax Deduction:** TDS applicable as per Income Tax guidelines.
+- **Premature Withdrawal:**  
+  - Minimum lock-in period: 1 year (no withdrawal allowed before 1 year).  
+  - After 1 year, applicable rate = average benchmark rate of preceding quarter + mark-up of relevant tenor.
+- **Interest Calculation:** As per bank’s existing term deposit guidelines.
+- **Senior Citizen Benefit:** Additional 0.50% (50 basis points) over applicable FRTD rate.
+
+Features:
+
+Who Can Open:
+- Individuals (single or joint)
+- Minors (through guardian)
+- Karta of Hindu Undivided Family (HUF)
+
+Minimum & Maximum Deposit:
+- Minimum: Rs. 10,000 and thereafter in multiples of Rs. 1,000  
+- Maximum: Less than Rs. 1 crore
+
+Joint Account Options:
+- Either or Survivor  
+- Former or Survivor  
+- Both or Survivor  
+- Both Jointly  
+- All of them or Survivors or Last Survivor  
+- Any one or more or Survivors or Last Survivor  
+(*“Either or Survivor” allows either depositor to operate; survivor continues after one’s death.*)
+
+Deposit Tenure Options:
+- 1 year
+- 2 years
+- 3 years
+- 5 years
+- 7 years
+- 10 years
+- More than 10 years, up to 20 years (non-cumulative deposits allowed)
+
+Interest Rate Anchor:
+- Anchored to the **average yield of 91-Day Treasury Bills** auctioned by the RBI during the preceding 3 months.
+- Interest rate reset every calendar quarter.
+
+Confirmation of Deposit (COD):
+- COD will not specify a fixed maturity value as the rate is variable.
+- All other terms are similar to standard term deposits.
+
+Disclaimer:
+- The interest mark-up may be revised at the Bank’s discretion.
+- Revised mark-up applies to new and renewed deposits only.
+
+How To Apply:
+Open a Floating Rate Term Deposit in 3 easy steps:
+
+1. **Get In Touch**  
+   Call our Phone Banking numbers (Toll Free):  
+   1800-209-4324  
+   1800-22-1070 (24x7 service)
+
+2. **Visit Our Branch**  
+   Visit the nearest IDBI Bank branch.  
+   (Use the “Find Nearest Branch” option on our website.)
+
+3. **Receive a Call Back**  
+   Our representative will contact you at the earliest for assistance.
+
+---
+
+With IDBI Bank’s Floating Rate Term Deposit, enjoy the flexibility of market-linked returns with the security of a fixed deposit — ideal for investors seeking higher yields in a rising interest rate environment.
+

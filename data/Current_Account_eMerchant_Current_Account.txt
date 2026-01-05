@@ -1,0 +1,39 @@
+IDBI Bank – eMerchant Current Account
+
+Overview:
+The eMerchant Current Account is designed for merchants to collect card-based payments easily without requiring an EDC machine or website. It provides a simple, mobile and desktop-friendly way to bill customers and track payment status.
+
+Product Features:
+
+1. Payment Requests
+   - Merchant can create a payment request with necessary information
+   - Customer receives request via email or mobile
+   - Customer views invoice and initiates payment via a unique URL
+
+2. Status Tracking
+   - Merchant can monitor payment status (paid/unpaid)
+   - Resend email/SMS option available
+   - Sender email ID is configurable
+
+Benefits to Merchant:
+
+- Bill on the go via mobile or desktop
+- Collect card-based payments without an EDC machine or website
+- No separate integration required
+- Customized payment options
+
+How To Apply:
+
+Get an eMerchant Current Account in 3 easy steps:
+
+01. Get In Touch
+   - Call the Phone Banking numbers (Toll Free):
+     1800-209-4324  
+     1800-22-1070 (24x7 service)
+
+02. Visit Our Branch
+   - Visit the nearest IDBI Bank branch
+
+03. Receive a Call Back
+   - A bank representative will contact you at the earliest
+

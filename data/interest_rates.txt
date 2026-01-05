@@ -1,0 +1,116 @@
+IDBI Bank – Interest Rates & Loan Products Overview
+
+1. Savings Bank (SB) Interest Rates (w.e.f. Aug 18, 2025)
+- Up to ₹1 Lakh: 2.50% p.a.
+- ₹1 Lakh - ₹5 Lakh: 2.55% p.a.
+- ₹5 Lakh - ₹5 Cr: 2.60% p.a.
+- ₹5 Cr - ₹100 Cr: 3.00% p.a.
+- ₹100 Cr - ₹500 Cr: 3.00% p.a.
+*Above ₹500 Cr: Contact Relationship Manager / Branch
+
+2. Base & Lending Rates
+- Base Rate (Apr 12, 2019): 9.65%
+- Current BPLR (Apr 12, 2019): 14.15%
+- MCLR (w.e.f. Oct 12, 2025)
+  - Overnight: 8.00%
+  - 1M: 8.15%
+  - 3M: 8.50%
+  - 6M: 8.70%
+  - 1Y: 8.75%
+  - 2Y: 9.30%
+  - 3Y: 9.70%
+
+3. Fixed Deposits (FD) & Term Deposits
+- Interest rates revised from Sep 19, 2025
+- Retail Term Deposits (< ₹3 Cr)
+  - 7–30 days: 3.00% (SC 3.50%)
+  - 31–45 days: 3.25% (SC 3.75%)
+  - 46–60 days: 4.50% (SC 5.00%)
+  - 61–90 days: 4.75% (SC 5.25%)
+  - 91 days–6 months: 5.50% (SC 6.00%)
+  - 6m1d–270d: 5.75% (SC 6.25%)
+  - 271d–<1Y: 6.00% (SC 6.50%)
+  - 1Y–2Y: 6.55% (SC 7.05%)
+  - >2Y–<3Y: 6.55% (SC 7.05%)
+  - 3Y–5Y: 6.35% (SC 6.85%)
+  - >5Y–10Y: 5.95% (SC 6.45%)
+  - >10Y–20Y: 4.80% (SC 5.30%)
+
+- Special FDs:
+  - Tax Saving FD (5Y): 6.35% (SC 6.85%)
+  - Vasundhara Green Deposit (1111 days): 6.35% (SC 6.85%)
+  - Utsav FD (444/555/700 days): 6.50–6.65% (SC 7.00–7.15%)
+  - Chiranjeevi Super Senior FD (80+ yrs, 444/555/700 days): 7.15–7.30%
+
+- Systematic Savings Plan (SSP/SSP Plus): 
+  - 1Y–2Y: 6.55% (SC 7.05%)
+  - >2Y–<3Y: 6.55% (SC 7.05%)
+  - 3Y–5Y: 6.35% (SC 6.85%)
+  - >5Y–10Y: 5.95% (SC 6.45%)
+
+- Bulk Term Deposits (BTD) & Non-Callable Deposits
+  - Non-callable: Pre-mature/partial withdrawal not allowed
+  - Callable: Rates vary by slab (from 5.01% to 6.66%)
+  - RBI Repo & MIBOR-linked deposits available
+
+- Floating Rate Term Deposits (FRTD)
+  - Anchor rate based on 91/364-day TB auction yield
+  - Interest reset quarterly
+  - Senior citizens: +0.50% over effective rate
+
+4. Retail Loans & Interest Rates
+- Structured Retail Asset (SRA): RLLR SRA = 8.35% (w.e.f. Jul 12, 2025)
+
+- Home Loan (Floating)
+  - Salaried/SE Professional: 7.55%–10.25%
+  - SE Non-Professional: 7.90%–11.75%
+  - Ultra Saver: 7.95%–12.15%
+  - Top-Up Housing: HL ROI +20 bps
+  - Suvidha Top-up (Non-Housing): HL ROI +75 bps
+  - Plot Loan: 9.30%–11.85%
+
+- Rural/Semi-Urban Housing Loans
+  - Up to ₹35 Lakh: 7.55%–10.30% (Salaried/SE Prof), 8.10%–10.45% (SE Non-Prof)
+
+- Mortgage Loan (ML)
+  - Residential: 9.00%–10.95%
+  - Commercial: 9.50%–11.20%
+  - LCPP: 9.50%–11.35%
+  - Loan Against Rent Receivable (LARR): 9.50%–11.20%
+
+- Education Loans
+  - Non-Vocational: 9.30%–10.60%
+  - Vocational/Skill Development: 9.85%
+  - Premier Institutes: 8.15%
+  - PM Vidyalaxmi Scheme: 7.65%–8.85%
+
+- Loan Against Securities: 9.60%–10.60%
+- Auto Loan: New 7.95%–9.10%, Certified Pre-owned 10.60%–11.20%
+- Loan for Insurance Premium: 7.65%–12.15%
+- Solar Rooftop Finance: 3 KW up to ₹2L 7.00%, >3 KW up to ₹6L 7.65%–9.25%
+
+- Fixed Rate Home, Mortgage, LCPP, Education, Personal, Auto Loans: Rates fixed for 3–5 years (varies 8.65%–13.05%)
+
+5. Loans to Special Categories
+- Physically Challenged (NDFDC):
+  - Home Loan: 5%–7% depending on amount
+  - Auto Loan: 5%–9%
+  - Personal Loan: 5%–7%
+  - Education Loan: up to 4%
+
+- MSME Loans
+  - Existing: 8.50%–15.55%, Mean 10.05%
+  - RLLR Effective Jul 12, 2025: 8.35%
+  - Card rates vary based on rating/scoring and loan amount
+
+- Agricultural Credit
+  - Kisan Credit Card (KCC) with subvention: up to ₹3L 7%
+  - KCC without subvention / other Agri loans: MCLR(Y) + 1–2%
+  - Food & Agro Processing Units: Repo + bps (depending on rating & CGTMSE coverage)
+  - Agri Infrastructure Fund: Up to ₹2 Cr: MCLR(H)+1%, Above ₹2 Cr: MCLR(Y)+1%
+  - Warehouse Receipt Loans: MCLR(Y) or RLLR + bps
+
+- Micro Loans
+  - Govt schemes: MCLR(Y)+1.75%
+  - NRLM: up to ₹3L 7%, ₹3–5L: MCLR(Y) or 10% p.a., above ₹5L: MCLR(Y)+1.75%
+
